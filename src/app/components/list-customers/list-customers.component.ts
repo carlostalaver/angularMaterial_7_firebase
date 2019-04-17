@@ -23,7 +23,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
 
 
 @Component({
-  selector: 'app-list-customers',
+  selector: 'listCustomers',
   templateUrl: './list-customers.component.html',
   styleUrls: ['./list-customers.component.scss']
 })
